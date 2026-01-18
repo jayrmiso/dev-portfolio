@@ -16,3 +16,7 @@ This is my personal developer portfolio, structured as a **monorepo**
 | Backend (CMS) | Strapi, REST API |
 | Tooling       | Turborepo, npm Workspaces |
 | Deployment    | Vercel (Frontend), Strapi Cloud |
+
+## Theme Color
+
+https://uicolors.app/generate/dbdcdf
