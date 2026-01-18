@@ -13,6 +13,6 @@ This is my personal developer portfolio, structured as a **monorepo**
 | Layer         | Tools / Frameworks |
 |---------------|---------------------|
 | Frontend      | Next.js, React, Tailwind CSS, TypeScript |
-| Backend (CMS) | Strapi, REST API or GraphQL |
+| Backend (CMS) | Strapi, REST API |
 | Tooling       | Turborepo, npm Workspaces |
 | Deployment    | Vercel (Frontend), Strapi Cloud |
